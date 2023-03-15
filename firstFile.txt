@@ -1,0 +1,3 @@
+Champion,3
+Goodman,2
+Lindokuhle,1
